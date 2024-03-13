@@ -113,6 +113,4 @@ Committed to continuous learning and staying updated with the latest trends in b
 
 ![alt text](https://i.ibb.co/t4XcMWF/Default-Naruto-expert-en-cyberscurit-devant-un-pc-et-utilise-K-0.jpg)
 
-#### My Stats on [Root-me.org](https://Root-me.org/dz-root)
-![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=dz-root&gstats=show&style=sunny)
 
