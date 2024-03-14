@@ -95,9 +95,9 @@ Committed to continuous learning and staying updated with the latest trends in b
 
 | Catégory | Name | Author   | CTF NAME | Details |
 |----------|------|----------|---------|----------|
-| <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Lucky Faucet | *HTB* | Cyber Apocalypse 2024 | Soon <sup>*(secret gist)*|
-| <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Recovery | *HTB* | Cyber Apocalypse 2024 | Soon <sup>*(secret gist)*|
-| <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Russian Roulette | *HTB* | Cyber Apocalypse 2024 | Soon <sup>*(secret gist)*|
+| <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Lucky Faucet | *HTB* | Cyber Apocalypse 2024 | [Read ➜](https://gist.github.com/dz-root/ed0ee99aec4ae8d852bc8e4dca84967d) |
+| <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Recovery | *HTB* | Cyber Apocalypse 2024 |  [Read ➜](https://gist.github.com/dz-root/17849bb447059156275a837fae5cb903)|
+| <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Russian Roulette | *HTB* | Cyber Apocalypse 2024 | [Read ➜](https://gist.github.com/dz-root/4c8f9e2bd385201c38aa68c5e788688d) |
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Synthatsu katana thief | *Icarus* | GCC CTF 2024 | [Read ➜](https://gist.github.com/dz-root/6d2bd21709d19aeecac3d85afe814240)|
 | <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | Rainbow Pages 1| *haxom* | Hackropole | Soon <sup>*(secret gist)*</sup> |
 | <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | F.U.S.S 1 | *Cryptanalyse* | Hackropole | Soon  <sup>*(secret gist)*</sup> |
