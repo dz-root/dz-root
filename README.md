@@ -1,6 +1,5 @@
 # Yagamii <sup>*(Dz-root)*</sup>
 
-
 Experienced **full-stack developer** proficient in building scalable web applications with expertise in frontend and backend technologies. Additionally, adept in **blockchain development**, leveraging smart contracts and decentralized applications (dApps) to create innovative solutions on various blockchain platforms. 
 
 Skilled in conducting comprehensive **penetration tests** to identify and mitigate security vulnerabilities, ensuring robustness and integrity in web and blockchain applications. 
@@ -8,88 +7,6 @@ Skilled in conducting comprehensive **penetration tests** to identify and mitiga
 Passionate about delivering high-quality, secure solutions that exceed client expectations and contribute to the advancement of technology. Throughout my career, I've served hundreds of customers, worked with dozens of companies and supervised numerous interns. 
 
 Committed to continuous learning and staying updated with the latest trends in both development and cybersecurity realms.
-
-![Yagamii_Dz-root](https://i.ibb.co/30L1D16/yagamii-dz-root.jpg)
-
-<table>
-<tr>
-<td>
-
-#### Langages
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/87587438/221409649-6219a8e7-dcbb-411f-bf66-7e52d7c89551.png" alt="JS" width="20" height="20"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" width="20" height="20"/> 
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="20" height="20"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="20" height="20"/> 
-</a>
-<a href="https://www.php.net/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/87587438/224856711-cc7dae31-e4ad-4136-97af-f0644d13b2cf.png" alt="php" width="20" height="20"/> 
-</a>
-<a href="https://www.python.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="20" height="20"/> </a>
-<a href="https://www.java.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="20" height="20"/> 
-</a>
-</p>
-
-</td>
-<td>
-
-#### Lib & Frameworks
-<p>
-<a href="https://www.java.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Sveltekit" width="20" height="20"/> 
-</a>
-<a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJs" width="20" height="20"/> 
-</a>
-<a href="https://laravel.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="20" height="20"/> 
-</a>
-<a href="https://tailwindcss.com/ target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCss" width="20" height="20"/> 
-</a>
-<a href="https://www.electronjs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electrion Js" width="20" height="20"/> 
-</a>
-<a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/web3/web3.js/4.x/assets/logo/web3js.jpg" alt="Web3.js" width="20" height="20"/> 
-</a>
-</p>
-</td>
-<td>
-
-#### Tools & platform
-<p>
-<a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank"> 
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="NodeJS" width="20" /> 
-</a>
-<a href="hhttps://www.docker.com/" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="20"/> 
-</a>
-<a href="https://book.getfoundry.sh/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" alt="Foundry" width="20" /> 
-</a>
-<a href="https://archive.trufflesuite.com/" target="_blank"> 
-    <img src="https://archive.trufflesuite.com/assets/logo.png" alt="TRUFFLE" width="20" /> 
-</a>
-<a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="20" /> 
-</a>
-</p>
-</td>
-</tr>
-</table>
-
-
-
 
 ## CTF Write-up
 
@@ -110,7 +27,7 @@ Committed to continuous learning and staying updated with the latest trends in b
 | <img src="https://placehold.co/15x15/FE8001/FE8001.png" width="10px"> OSINT | At that time| *Sanlokii* |  CTF10k By Root-me | [Read ➜](https://gist.github.com/dz-root/8ccbae7b78fdb1da178c6bd14d9d8222)|
 | <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | Secured front| *Elf* | CTF10k By Root-me | [Read ➜](https://gist.github.com/dz-root/55ae68602eeb3ef5e5b50c3e60798d49)|
 
-
-![alt text](https://i.ibb.co/t4XcMWF/Default-Naruto-expert-en-cyberscurit-devant-un-pc-et-utilise-K-0.jpg)
+## Languages, platforms and tools I use
+[![Languages_tools](https://skillicons.dev/icons?i=js,html,css,tailwind,ts,vuejs,svelte,nodejs,python,flask,selenium,php,laravel,symfony,nginx,vite,solidity,supabase,vercel,electron,wasm,sqlite,prisma,mysql,mongodb,graphql,git,docker,linux,kali)](https://github.com/dz-root)
 
 
