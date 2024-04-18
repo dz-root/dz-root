@@ -16,8 +16,8 @@ Committed to continuous learning and staying updated with the latest trends in b
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Recovery | *HTB* | Cyber Apocalypse 2024 |  [Read ➜](https://gist.github.com/dz-root/17849bb447059156275a837fae5cb903)|
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Russian Roulette | *HTB* | Cyber Apocalypse 2024 | [Read ➜](https://gist.github.com/dz-root/4c8f9e2bd385201c38aa68c5e788688d) |
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Synthatsu katana thief | *Icarus* | GCC CTF 2024 | [Read ➜](https://gist.github.com/dz-root/6d2bd21709d19aeecac3d85afe814240)|
-| <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | Rainbow Pages 1| *haxom* | Hackropole | Soon <sup>*(secret gist)*</sup> |
-| <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | F.U.S.S 1 | *Cryptanalyse* | Hackropole | Soon  <sup>*(secret gist)*</sup> |
+| <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | Rainbow Pages 1| *haxom* | Hackropole | [Read ➜](https://gist.github.com/dz-root/149a1c6976c11111f2911b11d038e3fe) |
+| <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | F.U.S.S 1 | *Cryptanalyse* | Hackropole | [Read ➜](https://gist.github.com/dz-root/cff7321607cddc16a63916b2bba7b604) |
 | <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | Push it to the limit | *DrStache* | Hackropole | Soon  <sup>*(secret gist)*</sup>|
 | <img src="https://placehold.co/15x15/1589F0/1589F0.png" width="10px"> Web | Header | *Cryptanalyse*| Hackropole | Soon <sup>*(secret gist)*</sup> |
 | <img src="https://placehold.co/15x15/DE01D6/DE01D6.png" width="10px"> Web3 | Solve Me| *bluealder*| DownUnderCTF 2022| [Read ➜](https://gist.github.com/dz-root/b4f2cf7719c29a1ac2bab10c6b6c3b5d)|
