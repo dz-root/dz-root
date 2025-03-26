@@ -12,6 +12,11 @@ Committed to continuous learning and staying updated with the latest trends in b
 
 | Catégory | Name | Author   | CTF NAME | Details |
 |----------|------|----------|---------|----------|
+| <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Embassy | *HTB* | Cyber Apocalypse 2025 | Soon |
+| <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Cursed GateKeeper | *HTB* | Cyber Apocalypse 2025 | Soon |
+| <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Mirror Witch | *HTB* | Cyber Apocalypse 2025 | Soon |
+| <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Elixir Emporium | *HTB* | Cyber Apocalypse 2025 | Soon |
+| <img src="https://placehold.co/5x5/1589F0/1589F0.png" width="10px"> Web | Web Trial By Fire | *HTB* | Cyber Apocalypse 2025 | Soon |
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Eldorion | *HTB* | Cyber Apocalypse 2025 | Soon |
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Lucky Faucet | *HTB* | Cyber Apocalypse 2024 | [Read ➜](https://gist.github.com/dz-root/ed0ee99aec4ae8d852bc8e4dca84967d) |
 | <img src="https://placehold.co/5x5/DE01D6/DE01D6.png" width="10px"> Web3 | Recovery | *HTB* | Cyber Apocalypse 2024 |  [Read ➜](https://gist.github.com/dz-root/17849bb447059156275a837fae5cb903)|
