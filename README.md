@@ -12,7 +12,7 @@ Committed to continuous learning and staying updated with the latest trends in b
 
 | Catégory | Name | Author   | CTF NAME | Details |
 |----------|------|----------|---------|----------|
-| <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Embassy | *HTB* | Cyber Apocalypse 2025 | Soon |
+| <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Embassy | *HTB* | Cyber Apocalypse 2025 | [Read ➜](https://gist.github.com/dz-root/f32a93d23088a43adef32aad3fd1561e) |
 | <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Cursed GateKeeper | *HTB* | Cyber Apocalypse 2025 | Soon |
 | <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Mirror Witch | *HTB* | Cyber Apocalypse 2025 | Soon |
 | <img src="https://placehold.co/5x5/FD3F92/FD3F920.png" width="10px"> AI | Lunar Orb | *HTB* | Cyber Apocalypse 2025 | [Read ➜](https://gist.github.com/dz-root/86945f8a4317133f2d01dfaeaaa7d54a) |
